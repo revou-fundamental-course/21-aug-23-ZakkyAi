@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid;
+    padding-bottom: 5px;
+} 
+.revoU img {
+    width: 35px;
+} 
+.menu {
+    display: flex;
+} 
+.menu div {
+    padding: 0 10px;
+    border: 1px solid;
+}
